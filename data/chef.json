@@ -1,0 +1,284 @@
+[
+    {
+        "id": 1,
+        "chef_name": "Gordon Ramsay",
+        "chef_picture": "https://th.bing.com/th/id/R.11e615426ae5e806ffb8ac962c51e062?rik=PAHGspPYa507fg&pid=ImgRaw&r=0",
+        "years_of_experience": 30,
+        "number_of_recipes": 1000,
+        "likes": 5000000,
+        "description": "Gordon Ramsay is a British chef and television personality. He has owned and operated several successful restaurants, and is known for his fiery personality and no-nonsense approach to cooking.",
+        "recipes": [
+            {
+                "name": "Beef Wellington",
+                "rating": 4.5,
+                "ingredients": [
+                    "beef fillet",
+                    "mushrooms",
+                    "prosciutto",
+                    "puff pastry",
+                    "egg wash"
+                ],
+                "method": "1. Sear the beef fillet. 2. Spread the mushroom mixture on the prosciutto. 3. Wrap the prosciutto around the beef. 4. Wrap the beef in puff pastry. 5. Brush with egg wash. 6. Bake for 40-45 minutes."
+            },
+            {
+                "name": "Scrambled Eggs",
+                "rating": 4.0,
+                "ingredients": [
+                    "eggs",
+                    "butter",
+                    "crème fraîche",
+                    "chives",
+                    "salt"
+                ],
+                "method": "1. Beat the eggs with crème fraîche. 2. Melt butter in a pan. 3. Add the eggs and cook over low heat, stirring constantly. 4. Add salt to taste. 5. Sprinkle with chives and serve."
+            },
+            {
+                "name": "Lobster Risotto",
+                "rating": 4.7,
+                "ingredients": [
+                    "lobster",
+                    "arborio rice",
+                    "onion",
+                    "garlic",
+                    "white wine"
+                ],
+                "method": "1. Cook the lobster and remove the meat. 2. Sauté onion and garlic in olive oil. 3. Add arborio rice and stir. 4. Add white wine and stir. 5. Add hot lobster stock gradually and stir until the rice is cooked. 6. Add the lobster meat and serve."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_name": "Jamie Oliver",
+        "chef_picture": "https://th.bing.com/th/id/R.11e615426ae5e806ffb8ac962c51e062?rik=PAHGspPYa507fg&pid=ImgRaw&r=0",
+        "years_of_experience": 25,
+        "number_of_recipes": 800,
+        "likes": 3000000,
+        "description": "Jamie Oliver is a British chef and restaurateur. He is known for his approachable style of cooking and emphasis on fresh ingredients.",
+        "recipes": [
+            {
+                "name": "Spaghetti Carbonara",
+                "rating": 4.3,
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "Parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti in salted water. 2. Cook bacon in a pan. 3. Beat eggs with Parmesan cheese and black pepper. 4. Drain spaghetti and add to the pan with bacon. 5. Pour the egg mixture over the spaghetti and stir quickly. 6. Serve immediately."
+            },
+            {
+                "name": "Chocolate Cake",
+                "rating": 4.7,
+                "ingredients": [
+                    "butter",
+                    "sugar",
+                    "eggs",
+                    "flour",
+                    "cocoa powder"
+                ],
+                "method": "1. Preheat oven to 350°F. 2. Cream butter and sugar together until light and fluffy. 3. Add eggs one at a time, beating after each addition. 4. Mix in flour and cocoa powder until just combined. 5. Pour the batter into a greased cake pan. 6. Bake for 30-35 minutes, or until a toothpick comes out clean. 7. Let the cake cool before frosting."
+            },
+            {
+                "name": "Beef Stew",
+                "rating": 4.4,
+                "ingredients": [
+                    "beef chuck",
+                    "onion",
+                    "carrots",
+                    "potatoes",
+                    "red wine"
+                ],
+                "method": "1. Brown beef in a Dutch oven. 2. Add onion and cook until softened. 3. Add carrots, potatoes, and red wine. 4. Add beef broth and bring to a simmer. 5. Cover and cook over low heat for 2-3 hours, or until the beef is tender. 6. Season with salt and pepper to taste."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_name": "Ina Garten",
+        "chef_picture": "https://th.bing.com/th/id/R.11e615426ae5e806ffb8ac962c51e062?rik=PAHGspPYa507fg&pid=ImgRaw&r=0",
+        "years_of_experience": 40,
+        "number_of_recipes": 500,
+        "likes": 2000000,
+        "description": "Ina Garten is an American author, chef, and television personality. She is known for her simple yet elegant approach to cooking and entertaining.",
+        "recipes": [
+            {
+                "name": "Herb-Roasted Turkey Breast",
+                "rating": 4.6,
+                "ingredients": [
+                    "turkey breast",
+                    "olive oil",
+                    "garlic",
+                    "rosemary",
+                    "thyme"
+                ],
+                "method": "1. Preheat oven to 325°F. 2. Place the turkey breast in a roasting pan. 3. Mix olive oil, garlic, rosemary, and thyme in a small bowl. 4. Brush the turkey breast with the mixture. 5. Roast for 1.5-2 hours, or until a meat thermometer inserted into the thickest part of the breast reads 165°F. 6. Let rest for 10 minutes before slicing."
+            },
+            {
+                "name": "Parmesan Roasted Broccoli",
+                "rating": 4.2,
+                "ingredients": [
+                    "broccoli",
+                    "olive oil",
+                    "Parmesan cheese",
+                    "garlic",
+                    "lemon"
+                ],
+                "method": "1. Preheat oven to 425°F. 2. Cut broccoli into florets. 3. Toss broccoli with olive oil, garlic, and Parmesan cheese. 4. Roast for 20-25 minutes, or until tender and browned. 5. Squeeze lemon juice over the top before serving."
+            },
+            {
+                "name": "Beef Stew",
+                "rating": 4.4,
+                "ingredients": [
+                    "beef chuck",
+                    "onion",
+                    "carrots",
+                    "potatoes",
+                    "red wine"
+                ],
+                "method": "1. Brown beef in a Dutch oven. 2. Add onion and cook until softened. 3. Add carrots, potatoes, and red wine. 4. Add beef broth and bring to a simmer. 5. Cover and cook over low heat for 2-3 hours, or until the beef is tender. 6. Season with salt and pepper to taste."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_name": "Yotam Ottolenghi",
+        "chef_picture": "https://th.bing.com/th/id/R.11e615426ae5e806ffb8ac962c51e062?rik=PAHGspPYa507fg&pid=ImgRaw&r=0",
+        "years_of_experience": 20,
+        "number_of_recipes": 300,
+        "likes": 1000000,
+        "description": "Yotam Ottolenghi is an Israeli-British chef, restaurateur, and food writer. He is known for his Mediterranean and Middle Eastern-inspired cuisine.",
+        "recipes": [
+            {
+                "name": "Roasted Eggplant with Buttermilk Sauce",
+                "rating": 4.3,
+                "ingredients": [
+                    "eggplant",
+                    "olive oil",
+                    "garlic",
+                    "buttermilk",
+                    "tahini"
+                ],
+                "method": "1. Preheat oven to 400°F. 2. Cut eggplant into 1-inch cubes. 3. Toss eggplant with olive oil and garlic. 4. Roast for 20-25 minutes, or until tender and browned. 5. Whisk together buttermilk, tahini, and garlic. 6. Drizzle sauce over eggplant before serving."
+            },
+            {
+                "name": "Spicy Lamb and Eggplant",
+                "rating": 4.8,
+                "ingredients": [
+                    "ground lamb",
+                    "eggplant",
+                    "olive oil",
+                    "garlic",
+                    "red pepper flakes"
+                ],
+                "method": "1. Preheat oven to 400°F. 2. Cut eggplant into 1-inch cubes. 3. Toss eggplant with olive oil and garlic. 4. Roast for 20-25 minutes, or until tender and browned. 5. Brown lamb in a skillet. 6. Add red pepper flakes and cook for 1-2 minutes. 7. Serve lamb over eggplant."
+            },
+            {
+                "name": "Shakshuka",
+                "rating": 4.5,
+                "ingredients": [
+                    "tomatoes",
+                    "red bell pepper",
+                    "onion",
+                    "garlic",
+                    "eggs"
+                ],
+                "method": "1. Sauté onion and red bell pepper in a skillet. 2. Add garlic and cook for 1-2 minutes. 3. Add diced tomatoes and cook for 10-15 minutes, or until the mixture thickens. 4. Crack eggs into the skillet. 5. Cover and cook until the eggs are set, about 5-7 minutes. 6. Season with salt and pepper to taste."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_name": "Jamie Oliver",
+        "chef_picture": "https://th.bing.com/th/id/R.11e615426ae5e806ffb8ac962c51e062?rik=PAHGspPYa507fg&pid=ImgRaw&r=0",
+        "years_of_experience": 25,
+        "number_of_recipes": 500,
+        "likes": 2000000,
+        "description": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his approachable style and emphasis on fresh, seasonal ingredients.",
+        "recipes": [
+            {
+                "name": "Spaghetti Carbonara",
+                "rating": 4.7,
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti according to package directions. 2. Cook pancetta in a skillet until crispy. 3. Whisk together eggs and parmesan cheese. 4. Drain spaghetti and add to the skillet with pancetta. 5. Turn off heat and pour egg mixture over spaghetti. 6. Toss until the eggs are cooked and the spaghetti is coated. 7. Season with black pepper to taste."
+            },
+            {
+                "name": "Roasted Chicken",
+                "rating": 4.5,
+                "ingredients": [
+                    "whole chicken",
+                    "lemon",
+                    "garlic",
+                    "rosemary",
+                    "olive oil"
+                ],
+                "method": "1. Preheat oven to 400°F. 2. Stuff the chicken with lemon, garlic, and rosemary. 3. Rub the chicken with olive oil. 4. Roast for 1-1.5 hours, or until the internal temperature reaches 165°F. 5. Let the chicken rest for 10-15 minutes before carving."
+            },
+            {
+                "name": "Shepherd's Pie",
+                "rating": 4.6,
+                "ingredients": [
+                    "ground beef",
+                    "carrots",
+                    "peas",
+                    "onion",
+                    "mashed potatoes"
+                ],
+                "method": "1. Preheat oven to 375°F. 2. Brown ground beef in a skillet. 3. Add diced carrots and onion, and cook until the vegetables are tender. 4. Add peas and cook for 1-2 minutes. 5. Spread the beef mixture in the bottom of a baking dish. 6. Spread mashed potatoes over the beef mixture. 7. Bake for 30-40 minutes, or until the potatoes are golden brown."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_name": "Yotam Ottolenghi",
+        "chef_picture": "https://th.bing.com/th/id/R.11e615426ae5e806ffb8ac962c51e062?rik=PAHGspPYa507fg&pid=ImgRaw&r=0",
+        "years_of_experience": 20,
+        "number_of_recipes": 300,
+        "likes": 1000000,
+        "description": "Yotam Ottolenghi is an Israeli-British chef, restaurateur, and food writer. He is known for his Mediterranean and Middle Eastern-inspired cuisine.",
+        "recipes": [
+            {
+                "name": "Roasted Eggplant with Buttermilk Sauce",
+                "rating": 4.3,
+                "ingredients": [
+                    "eggplant",
+                    "olive oil",
+                    "garlic",
+                    "buttermilk",
+                    "tahini"
+                ],
+                "method": "1. Preheat oven to 400°F. 2. Cut eggplant into 1-inch cubes. 3. Toss eggplant with olive oil and garlic. 4. Roast for 20-25 minutes, or until tender and browned. 5. Whisk together buttermilk, tahini, and garlic. 6. Drizzle sauce over eggplant before serving."
+            },
+            {
+                "name": "Spicy Lamb and Eggplant",
+                "rating": 4.8,
+                "ingredients": [
+                    "ground lamb",
+                    "eggplant",
+                    "olive oil",
+                    "garlic",
+                    "red pepper flakes"
+                ],
+                "method": "1. Preheat oven to 400°F. 2. Cut eggplant into 1-inch cubes. 3. Toss eggplant with olive oil and garlic. 4. Roast for 20-25 minutes, or until tender and browned. 5. Brown lamb in a skillet. 6. Add red pepper flakes and cook for 1-2 minutes. 7. Serve lamb over eggplant."
+            },
+            {
+                "name": "Shakshuka",
+                "rating": 4.5,
+                "ingredients": [
+                    "tomatoes",
+                    "red bell pepper",
+                    "onion",
+                    "garlic",
+                    "eggs"
+                ],
+                "method": "1. Sauté onion and red bell pepper in a skillet. 2. Add garlic and cook for 1-2 minutes. 3. Add diced tomatoes and cook for 10-15 minutes, or until the mixture thickens. 4. Crack eggs into the skillet. 5. Cover and cook until the eggs are set, about 5-7 minutes. 6. Season with salt and pepper to taste."
+            }
+        ]
+    }
+]
